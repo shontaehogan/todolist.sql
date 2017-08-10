@@ -6,3 +6,9 @@ Write a SELECT statement to find the number of incomplete todos by priority.
 Write a SELECT statement to find the number of todos by priority created in the last 30 days.
 Write a SELECT statement to find the next todo you should work on. This is the todo with the highest priority that was created first.
 # todolist.sql
+
+
+8/9/17 ASSIGNMENT INCLUDED:
+
+-CREATE DATBASE 'TODOLIST'
+-CREATE TABLE 'TODOS'
